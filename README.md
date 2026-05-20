@@ -1,4 +1,4 @@
-🎬 Movie Recommender System
+#🎬 Movie Recommender System
 
 A Machine Learning based Movie Recommender System that suggests similar movies based on the movie selected by the user. The project uses content-based filtering and cosine similarity to generate recommendations.
 
@@ -7,7 +7,7 @@ Recommend top 5 similar movies
 Interactive Streamlit web interface
 Movie poster fetching using TMDB API
 Fast recommendation generation using similarity matrix
-🛠️ Tech Stack
+🛠️ Tech Stacks
 Python
 Pandas
 NumPy
@@ -25,8 +25,6 @@ cd movie-recommender-system
 pip install -r requirements.txt
 streamlit run app.py
 📷 Demo
-
-(Add screenshots of your project here)
 
 📂 Project Structure
 ├── app.py
